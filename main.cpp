@@ -2,6 +2,7 @@
 #include <cmath>
 #include <format>
 #include <iostream>
+#include <optional>
 
 enum TypeImpl{
     None,
